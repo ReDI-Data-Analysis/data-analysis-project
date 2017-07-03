@@ -5,4 +5,9 @@ Data Analysis ReDI Project
 
 Teams
 -----------
-Lena Krasnova
+* Lena Krasnova
+*.Iyhab Zytoon
+*.Omar Alhasan
+* Dani
+* Al Witry
+

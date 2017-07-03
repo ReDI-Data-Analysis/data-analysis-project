@@ -5,4 +5,7 @@ Data Analysis ReDI Project
 
 Teams
 -----------
-Dani
+*.Iyhab Zytoon
+*.Omar Alhasan
+* Dani
+

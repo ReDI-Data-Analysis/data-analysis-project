@@ -1,0 +1,217 @@
+columnid,columndescription,topicarea
+B02001_001,RACE for Total Population,Race
+B02001_002,RACE for Total Population% White alone,Race
+B02001_003,RACE for Total Population% Black or African American alone,Race
+B02001_004,RACE for Total Population% American Indian and Alaska Native alone,Race
+B02001_005,RACE for Total Population% Asian alone,Race
+B02001_006,RACE for Total Population% Native Hawaiian and Other Pacific Islander alone,Race
+B02001_007,RACE for Total Population% Some other race alone,Race
+B02001_008,RACE for Total Population% Two or more races:,Race
+B02001_009,RACE for Total Population% Two or more races:% Two races including Some other race,Race
+B02001_010,"RACE for Total Population% Two or more races:% Two races excluding Some other race, and three or more races",Race
+B02008_001,WHITE ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES for White Alone Or In Combination With One Or More Other Races,Race
+B02009_001,BLACK OR AFRICAN AMERICAN ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES for Black Or African American Alone Or In Combination With One Or More Other Races,Race
+B02010_001,AMERICAN INDIAN AND ALASKA NATIVE ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES for People Who Are American Indian Or Alaska Native Alone Or In Combination With One Or More Other Races,Race
+B02011_001,ASIAN ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES for Asian Alone Or In Combination With One Or More Other Races,Race
+B02012_001,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES for Native Hawaiian And Other Pacific Islander Alone Or In Combination With One Or More Other Races,Race
+B02013_001,SOME OTHER RACE ALONE OR IN COMBINATION WITH ONE OR MORE OTHER RACES for Some Other Race Alone Or In Combination With One Or More Other Races,Race
+B02014_001,AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported,Race
+B02014_002,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:",Race
+B02014_003,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Apache",Race
+B02014_004,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Arapaho",Race
+B02014_005,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Blackfeet",Race
+B02014_006,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Canadian and French American Indian",Race
+B02014_007,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Central American Indian",Race
+B02014_008,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Cherokee",Race
+B02014_009,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Cheyenne",Race
+B02014_010,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Chickasaw",Race
+B02014_011,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Chippewa",Race
+B02014_012,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Choctaw",Race
+B02014_013,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Colville",Race
+B02014_014,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Comanche",Race
+B02014_015,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Cree",Race
+B02014_016,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Creek",Race
+B02014_017,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Crow",Race
+B02014_018,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Delaware",Race
+B02014_019,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Hopi",Race
+B02014_020,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Houma",Race
+B02014_021,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Iroquois",Race
+B02014_022,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Kiowa",Race
+B02014_023,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Lumbee",Race
+B02014_024,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Menominee",Race
+B02014_025,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Mexican American Indian",Race
+B02014_026,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Navajo",Race
+B02014_027,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Osage",Race
+B02014_028,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Ottawa",Race
+B02014_029,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Paiute",Race
+B02014_030,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Pima",Race
+B02014_031,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Potawatomi",Race
+B02014_032,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Pueblo",Race
+B02014_033,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Puget Sound Salish",Race
+B02014_034,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Seminole",Race
+B02014_035,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Shoshone",Race
+B02014_036,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Sioux",Race
+B02014_037,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% South American Indian",Race
+B02014_038,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Spanish American Indian",Race
+B02014_039,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Tohono O'Odham",Race
+B02014_040,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Ute",Race
+B02014_041,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Yakama",Race
+B02014_042,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Yaqui",Race
+B02014_043,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% Yuman",Race
+B02014_044,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, specified:% All other American Indian tribes (with only one tribe reported)",Race
+B02014_045,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian tribes, not specified",Race
+B02014_046,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% Alaska Native tribes, specified:",Race
+B02014_047,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% Alaska Native tribes, specified:% Alaskan Athabascan",Race
+B02014_048,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% Alaska Native tribes, specified:% Aleut",Race
+B02014_049,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% Alaska Native tribes, specified:% Inupiat",Race
+B02014_050,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% Alaska Native tribes, specified:% Tlingit-Haida",Race
+B02014_051,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% Alaska Native tribes, specified:% Tsimshian",Race
+B02014_052,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% Alaska Native tribes, specified:% Yup'ik",Race
+B02014_053,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% Alaska Native tribes, not specified",Race
+B02014_054,"AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% American Indian or Alaska Native tribes, not specified",Race
+B02014_055,AMERICAN INDIAN AND ALASKA NATIVE ALONE FOR SELECTED TRIBAL GROUPINGS for People Who Are American Indian And Alaska Native Alone And People With No Tribe Reported% Two or More American Indian or Alaska Native Tribes,Race
+B02015_001,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population,Race
+B02015_002,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Asian Indian,Race
+B02015_003,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Bangladeshi,Race
+B02015_004,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Bhutanese,Race
+B02015_005,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Burmese,Race
+B02015_006,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Cambodian,Race
+B02015_007,"ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Chinese, except Taiwanese",Race
+B02015_008,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Filipino,Race
+B02015_009,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Hmong,Race
+B02015_010,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Indonesian,Race
+B02015_011,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Japanese,Race
+B02015_012,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Korean,Race
+B02015_013,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Laotian,Race
+B02015_014,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Malaysian,Race
+B02015_015,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Mongolian,Race
+B02015_016,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Nepalese,Race
+B02015_017,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Okinawan,Race
+B02015_018,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Pakistani,Race
+B02015_019,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Sri Lankan,Race
+B02015_020,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Taiwanese,Race
+B02015_021,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Thai,Race
+B02015_022,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Vietnamese,Race
+B02015_023,"ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Other Asian, specified",Race
+B02015_024,"ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Other Asian, not specified",Race
+B02015_025,ASIAN ALONE BY SELECTED GROUPS for Total Asian Alone Population% Two or more Asian,Race
+B02016_001,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE BY SELECTED GROUPS for Total Native Hawaiian And Other Pacific Islander Alone Population,Race
+B02016_002,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE BY SELECTED GROUPS for Total Native Hawaiian And Other Pacific Islander Alone Population% % Native Hawaiian,Race
+B02016_003,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE BY SELECTED GROUPS for Total Native Hawaiian And Other Pacific Islander Alone Population% % Samoan,Race
+B02016_004,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE BY SELECTED GROUPS for Total Native Hawaiian And Other Pacific Islander Alone Population% % Tongan,Race
+B02016_005,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE BY SELECTED GROUPS for Total Native Hawaiian And Other Pacific Islander Alone Population% % Other Polynesian,Race
+B02016_006,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE BY SELECTED GROUPS for Total Native Hawaiian And Other Pacific Islander Alone Population% % Guamanian or Chamorro,Race
+B02016_007,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE BY SELECTED GROUPS for Total Native Hawaiian And Other Pacific Islander Alone Population% % Marshallese,Race
+B02016_008,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE BY SELECTED GROUPS for Total Native Hawaiian And Other Pacific Islander Alone Population% % Other Micronesian,Race
+B02016_009,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE BY SELECTED GROUPS for Total Native Hawaiian And Other Pacific Islander Alone Population% % Fijian,Race
+B02016_010,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE BY SELECTED GROUPS for Total Native Hawaiian And Other Pacific Islander Alone Population% % Other Melanesian,Race
+B02016_011,"NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE BY SELECTED GROUPS for Total Native Hawaiian And Other Pacific Islander Alone Population% Other Pacific Islander, not specified (check box only)",Race
+B02016_012,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE BY SELECTED GROUPS for Total Native Hawaiian And Other Pacific Islander Alone Population% Two or More NHPI,Race
+B02017_001,AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:,Race
+B02017_002,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:",Race
+B02017_003,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Apache",Race
+B02017_004,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Arapaho",Race
+B02017_005,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Blackfeet",Race
+B02017_006,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Canadian and French American Indian",Race
+B02017_007,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Central American Indian",Race
+B02017_008,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Cherokee",Race
+B02017_009,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Cheyenne",Race
+B02017_010,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Chickasaw",Race
+B02017_011,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Chippewa",Race
+B02017_012,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Choctaw",Race
+B02017_013,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Colville",Race
+B02017_014,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Comanche",Race
+B02017_015,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Cree",Race
+B02017_016,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Creek",Race
+B02017_017,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Crow",Race
+B02017_018,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Delaware",Race
+B02017_019,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Hopi",Race
+B02017_020,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Houma",Race
+B02017_021,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Iroquois",Race
+B02017_022,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Kiowa",Race
+B02017_023,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Lumbee",Race
+B02017_024,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Menominee",Race
+B02017_025,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Mexican American Indian",Race
+B02017_026,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Navajo",Race
+B02017_027,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Osage",Race
+B02017_028,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Ottawa",Race
+B02017_029,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Paiute",Race
+B02017_030,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Pima",Race
+B02017_031,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Potawatomi",Race
+B02017_032,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Pueblo",Race
+B02017_033,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Puget Sound Salish",Race
+B02017_034,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Seminole",Race
+B02017_035,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Shoshone",Race
+B02017_036,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Sioux",Race
+B02017_037,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% South American Indian",Race
+B02017_038,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Spanish American Indian",Race
+B02017_039,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Tohono O'Odham",Race
+B02017_040,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Ute",Race
+B02017_041,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Yakama",Race
+B02017_042,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Yaqui",Race
+B02017_043,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% Yuman",Race
+B02017_044,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, specified:% All other American Indian tribes (with only one tribe reported)",Race
+B02017_045,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian tribes, not specified",Race
+B02017_046,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Alaska Native tribes, specified:",Race
+B02017_047,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Alaska Native tribes, specified:% Alaskan Athabascan",Race
+B02017_048,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Alaska Native tribes, specified:% Aleut",Race
+B02017_049,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Alaska Native tribes, specified:% Inupiat",Race
+B02017_050,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Alaska Native tribes, specified:% Tlingit-Haida",Race
+B02017_051,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Alaska Native tribes, specified:% Tsimshian",Race
+B02017_052,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Alaska Native tribes, specified:% Yup'ik",Race
+B02017_053,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Alaska Native tribes, not specified",Race
+B02017_054,"AMERICAN INDIAN AND ALASKA NATIVE (AIAN) ALONE OR IN ANY COMBINATION BY SELECTED TRIBAL GROUPINGS for Total Aian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% American Indian or Alaska Native tribes, not specified",Race
+B02018_001,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:,Race
+B02018_002,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Asian Indian,Race
+B02018_003,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Bangladeshi,Race
+B02018_004,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Bhutanese,Race
+B02018_005,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Burmese,Race
+B02018_006,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Cambodian,Race
+B02018_007,"ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Chinese, except Taiwanese",Race
+B02018_008,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Filipino,Race
+B02018_009,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Hmong,Race
+B02018_010,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Indonesian,Race
+B02018_011,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Japanese,Race
+B02018_012,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Korean,Race
+B02018_013,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Laotian,Race
+B02018_014,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Malaysian,Race
+B02018_015,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Mongolian,Race
+B02018_016,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Nepalese,Race
+B02018_017,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Okinawan,Race
+B02018_018,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Pakistani,Race
+B02018_019,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Sri Lankan,Race
+B02018_020,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Taiwanese,Race
+B02018_021,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Thai,Race
+B02018_022,ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Vietnamese,Race
+B02018_023,"ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Other Asian, specified",Race
+B02018_024,"ASIAN ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Asian Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Other Asian, not specified",Race
+B02019_001,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Nhpi Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:,Race
+B02019_002,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Nhpi Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% % Native Hawaiian,Race
+B02019_003,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Nhpi Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% % Samoan,Race
+B02019_004,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Nhpi Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% % Tongan,Race
+B02019_005,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Nhpi Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% % Other Polynesian,Race
+B02019_006,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Nhpi Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% % Guamanian or Chamorro,Race
+B02019_007,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Nhpi Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% % Marshallese,Race
+B02019_008,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Nhpi Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% % Other Micronesian,Race
+B02019_009,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Nhpi Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% % Fijian,Race
+B02019_010,NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Nhpi Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% % Other Melanesian,Race
+B02019_011,"NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE OR IN ANY COMBINATION BY SELECTED GROUPS for Total Nhpi Alone Or In Any Combination Population (The Total Groups Tallied)%Total Groups Tallied:% Other Pacific Islander, not specified",Race
+C02003_001,DETAILED RACE for Total Population,Race
+C02003_002,DETAILED RACE for Total Population% Population of one race:,Race
+C02003_003,DETAILED RACE for Total Population% Population of one race:% White,Race
+C02003_004,DETAILED RACE for Total Population% Population of one race:% Black or African American,Race
+C02003_005,DETAILED RACE for Total Population% Population of one race:% American Indian and Alaska Native,Race
+C02003_006,DETAILED RACE for Total Population% Population of one race:% Asian alone,Race
+C02003_007,DETAILED RACE for Total Population% Population of one race:% Native Hawaiian and Other Pacific Islander,Race
+C02003_008,DETAILED RACE for Total Population% Population of one race:% Some other race,Race
+C02003_009,DETAILED RACE for Total Population% Population of two or more races:,Race
+C02003_010,DETAILED RACE for Total Population%Two races including Some other race,Race
+C02003_011,"DETAILED RACE for Total Population%Two races excluding Some other race, and three or more races",Race
+C02003_012,DETAILED RACE for Total Population% Population of two or more races:% Population of two races:,Race
+C02003_013,DETAILED RACE for Total Population% Population of two or more races:% Population of two races:% White; Black or African American,Race
+C02003_014,DETAILED RACE for Total Population% Population of two or more races:% Population of two races:% White; American Indian and Alaska Native,Race
+C02003_015,DETAILED RACE for Total Population% Population of two or more races:% Population of two races:% White; Asian,Race
+C02003_016,DETAILED RACE for Total Population% Population of two or more races:% Population of two races:% Black or African American; American Indian and Alaska Native,Race
+C02003_017,DETAILED RACE for Total Population% Population of two or more races:% Population of two races:% All other two race combinations,Race
+C02003_018,DETAILED RACE for Total Population% Population of two or more races:% Population of three races,Race
+C02003_019,DETAILED RACE for Total Population% Population of two or more races:% Population of four or more races,Race

@@ -1,7 +1,4 @@
-Data Analysis ReDI Project
-
-==================================
-
+# Data Analysis ReDI Project
 
 Teams
 -----------

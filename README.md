@@ -1,6 +1,6 @@
 # Data Analysis ReDI Project
 
-Teams
+Team
 -----------
 * Lena Krasnova
 * Iyhab Zytoon

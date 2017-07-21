@@ -1,16 +1,13 @@
-Data Analysis ReDI Project
+# Data Analysis ReDI Project
 
-==================================
-
-
-Teams
+Team
 -----------
-Lena Krasnova
-Iyhab Zytoon
-Omar Alhasan
-Dani
-Giovanni 
-Al Witry
-Ntemaug
+* Lena Krasnova
+* Iyhab Zytoon
+* Omar Alhasan
+* Dani
+* Giovanni 
+* Al Witry
+* Ntemaug
 
 
